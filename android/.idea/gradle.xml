@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.0.8/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/geocoding-2.0.0/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/geolocator_android-1.0.0/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/google_maps_flutter-2.0.6/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.6.2+3/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/keyboard_visibility-0.5.6/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/location-4.3.0/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.0.7/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-6.0.9/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
