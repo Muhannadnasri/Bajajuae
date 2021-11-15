@@ -1,13 +1,2 @@
 
-build/ios/Pods.build/Release-iphonesimulator/Flutter.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/fluttertoast.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/geocoding.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/geolocator_apple.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/google_maps_flutter.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/GoogleMaps.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/image_picker.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/location.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/Pods-Runner.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/shared_preferences.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/Toast.build/dgph
-build/ios/Pods.build/Release-iphonesimulator/url_launcher.build/dgph
+build/
